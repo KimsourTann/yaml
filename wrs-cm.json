@@ -1,0 +1,1 @@
+{"apiVersion":"v1","data":{"DATABASE":"/wrs/database/rs.db","MYSQL":"wrs:wrswrswrs@tcp(srqz.cluster-cbltgppcfuit.ap-east-1.rds.amazonaws.com:3306)/wrs?charset=utf8mb4&parseTime=True&loc=Local","STORAGE":"/wrs/storage","WRSCACHE":"/wrs/cache","WRSTEMP":"/wrs/temp"},"kind":"ConfigMap","metadata":{"annotations":{},"name":"wrs-http-config"}}
