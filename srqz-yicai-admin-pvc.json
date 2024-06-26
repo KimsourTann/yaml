@@ -1,0 +1,2 @@
+{"apiVersion":"v1","kind":"PersistentVolumeClaim","metadata":{"name":"cxxx"},"spec":{"accessModes":["ReadWriteOnce"],"resources":{"requests":{"storage":"1Gi"}},"storageClassName":"gp2","volumeMode":"Filesystem"}}
+{"apiVersion":"v1","kind":"PersistentVolumeClaim","metadata":{"name":"data-cas-server"},"spec":{"accessModes":["ReadWriteOnce"],"resources":{"requests":{"storage":"2Gi"}},"storageClassName":"gp2","volumeMode":"Filesystem"}}

@@ -1,0 +1,1 @@
+{"apiVersion":"v1","data":{"config.dart":"/**\n * 远端数据库相关配置信息\n */\nconst settingsYaml = '''\nmysql_user: fair\nmysql_password: fair\nmysql_host: srqz.cluster-cbltgppcfuit.ap-east-1.rds.amazonaws.com\nmysql_port: 3306\nmysql_database: fair\n''';"},"kind":"ConfigMap","metadata":{"annotations":{},"name":"config"}}
