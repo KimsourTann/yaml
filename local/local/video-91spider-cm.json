@@ -1,0 +1,1 @@
+{"apiVersion":"v1","data":{"CDNHOST":"https://ts-hlm.qiluwen.xyz","MYSQL":"admin:adminadmin@tcp(srqz.cluster-cbltgppcfuit.ap-east-1.rds.amazonaws.com:3306)/video-web?charset=utf8&parseTime=True&loc=Asia%2FShanghai"},"kind":"ConfigMap","metadata":{"annotations":{},"name":"server","namespace":"video-91spider"}}

@@ -1,0 +1,2 @@
+{"apiVersion":"v1","kind":"PersistentVolumeClaim","metadata":{"name":"mysql-data","namespace":"zb-discuz"},"spec":{"accessModes":["ReadWriteOnce"],"resources":{"requests":{"storage":"5Gi"}},"volumeMode":"Filesystem"}}
+{"apiVersion":"v1","kind":"PersistentVolumeClaim","metadata":{"name":"www-data","namespace":"zb-discuz"},"spec":{"accessModes":["ReadWriteOnce"],"resources":{"requests":{"storage":"5Gi"}},"volumeMode":"Filesystem"}}

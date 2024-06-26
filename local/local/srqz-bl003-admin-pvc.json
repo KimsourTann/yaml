@@ -1,0 +1,2 @@
+{"apiVersion":"v1","kind":"PersistentVolumeClaim","metadata":{"name":"data-cas-server-0","namespace":"srqz-bl003-admin"},"spec":{"accessModes":["ReadWriteOnce"],"resources":{"requests":{"storage":"10Gi"}},"volumeMode":"Filesystem"}}
+{"apiVersion":"v1","kind":"PersistentVolumeClaim","metadata":{"name":"data-cleaner-backup","namespace":"srqz-bl003-admin"},"spec":{"accessModes":["ReadWriteOnce"],"resources":{"requests":{"storage":"200Gi"}},"volumeMode":"Filesystem"}}
